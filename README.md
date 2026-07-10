@@ -135,11 +135,13 @@ Passionate about AI, UI/UX Design, Web Development, and building projects that m
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shivani-200610&theme=tokyonight&hide_border=true"/>
 </p>
+
 # 🏆 GitHub Achievements
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Shivani-200610&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
+
 # 📫 Let's Connect
 
 <p align="left">
