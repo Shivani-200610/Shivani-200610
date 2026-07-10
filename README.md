@@ -26,7 +26,8 @@ Computer Science (AI) Student • Curious Learner • Creative Builder 🌸
 <p align="center">
 Passionate about AI, UI/UX Design, Web Development, and building projects that make an impact.
 </p>
-## 🌸 About Me
+
+### 🌸 About Me
 
 🎓 I'm a Computer Science (AI) student at **Amrita Vishwa Vidyapeetham, Bengaluru**.
 
