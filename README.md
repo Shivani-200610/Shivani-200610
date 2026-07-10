@@ -37,3 +37,23 @@ Passionate about AI, UI/UX Design, Web Development, and building projects that m
 🐍 I'm strengthening my **Data Structures & Algorithms** skills in Python while continuously building new projects.
 
 ✨ I believe every project is an opportunity to learn, improve, and create something meaningful.
+## 💻 Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css" />
+</p>
+
+### 🎨 Design & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
+</p>
+
+### 🌱 Currently Learning
+
+- 🐍 Data Structures & Algorithms in Python
+- 🤖 Artificial Intelligence & Machine Learning
+- 🎨 UI/UX Design
+- 🌐 Modern Web Development
