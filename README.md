@@ -52,12 +52,7 @@ Passionate about AI, UI/UX Design, Web Development, and building projects that m
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode" />
 </p>
 
-### 🌱 Currently Learning
 
-- 🐍 Data Structures & Algorithms in Python
-- 🤖 Artificial Intelligence & Machine Learning
-- 🎨 UI/UX Design
-- 🌐 Modern Web Development
 # 🚀 Featured Projects
 
 ## 🧠 AI & Machine Learning
@@ -123,3 +118,32 @@ Passionate about AI, UI/UX Design, Web Development, and building projects that m
 **Tech Stack:** ESP32 • Arduino IDE • Embedded Systems
 
 🔗 Repository: *(link)*
+# 🎯 Current Focus
+
+- 💻 Strengthening my Data Structures & Algorithms skills in Python.
+- 🤖 Exploring Artificial Intelligence and Machine Learning through real-world projects.
+- 🌐 Building responsive web applications with a focus on UI/UX.
+- 📚 Continuously learning new technologies and improving problem-solving skills.
+- 🚀 Preparing for Software Engineering internships and placement opportunities.
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shivani-200610&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivani-200610&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shivani-200610&theme=tokyonight&hide_border=true"/>
+</p>
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Shivani-200610&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+# 📫 Let's Connect
+
+<p align="left">
+<a href="YOUR_LINKEDIN_URL"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
+
