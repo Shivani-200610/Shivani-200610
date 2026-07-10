@@ -57,3 +57,68 @@ Passionate about AI, UI/UX Design, Web Development, and building projects that m
 - 🤖 Artificial Intelligence & Machine Learning
 - 🎨 UI/UX Design
 - 🌐 Modern Web Development
+# 🚀 Featured Projects
+
+## 🧠 AI & Machine Learning
+
+### 🏥 Chest X-ray Disease Detection
+
+> Multi-label chest disease classification using Deep Learning and Explainable AI techniques to assist medical image analysis.
+
+**Tech Stack:** Python • PyTorch • OpenCV • Deep Learning
+
+🔗 Repository: *(add your repo link here)*
+
+---
+
+### 🧬 Huntington's Disease Prediction
+
+> Machine Learning model for predicting Huntington's Disease using clinical datasets to support early diagnosis.
+
+**Tech Stack:** Python • Scikit-learn • Machine Learning
+
+🔗 Repository: *(link)*
+
+---
+
+### 🌊 OceanGuard
+
+> Marine awareness and volunteer tracking platform promoting environmental conservation through an interactive web application.
+
+**Tech Stack:** Python • Streamlit
+
+🔗 Repository: *(link)*
+
+---
+
+## 🌐 Web Development & UI/UX
+
+### 💼 WorkSyne
+
+> A modern job portal UI focused on creating an intuitive and visually appealing experience for job seekers.
+
+**Tech Stack:** HTML • CSS • JavaScript • Figma
+
+🔗 Repository: *(link)*
+
+---
+
+### 👩‍💼 Urban Kaamwaali
+
+> A service platform concept connecting households with trusted domestic workers through a clean and accessible interface.
+
+**Tech Stack:** HTML • CSS • JavaScript • Figma
+
+🔗 Repository: *(link)*
+
+---
+
+## 🤖 Robotics & IoT
+
+### 🚗 Gesture Controlled Robot
+
+> ESP32-based gesture-controlled robotic system developed using sensors and wireless communication for intuitive navigation.
+
+**Tech Stack:** ESP32 • Arduino IDE • Embedded Systems
+
+🔗 Repository: *(link)*
